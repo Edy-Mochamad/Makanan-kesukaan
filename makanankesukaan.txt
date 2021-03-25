@@ -2,3 +2,6 @@ Rincian makanan kesukaan :
 - Nasi goreng
 - Mie goreng
 - Bakso
+- Nasi padang
+- Ayam goreng
+- Sayur Bayam
