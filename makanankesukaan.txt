@@ -1,7 +1,13 @@
 Rincian makanan kesukaan :
 - Nasi goreng
 - Gorengan
+  ^Tahu isi
+  ^Onde-onde
+  ^Ote-ote
 - Bakso
+  ^Bakso mercon
+  ^Bakso jumbo
 - Nasi padang
 - Siomay Bandung
 - Sayur Bayam
+- Penyetan
